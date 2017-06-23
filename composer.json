@@ -1,0 +1,19 @@
+{
+    "require": {
+        "phpdr.net/php-curlmulti": "2.*",
+        "blaize9/php-query": "dev-master"
+    }, 
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ares333/php-curlmulti.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/blaize9/phpQuery.git"
+        }
+    ]
+}
