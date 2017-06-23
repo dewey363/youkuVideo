@@ -9,3 +9,4 @@
 * php index.php 
 
 * 关键词存储在key.txt，可根据需要手动调节
+* 采集到的结果存储在youku.txt文件
